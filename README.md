@@ -7,8 +7,6 @@
 
 - 👨‍💻 Some of my projects are available at [https://germansanz93.github.io/portfolio/](https://germansanz93.github.io/portfolio/)
 
-- 📝 I regularly write articles on [Coming soon](Coming soon)
-
 - 📫 If you want contact with me, you can send me a twitter DM to @goriladev or visit my portfolio for more information.
 
 - 📄 Know about my experiences [https://germansanz93.github.io/portfolio/cv.html](https://germansanz93.github.io/portfolio/cv.html)
@@ -17,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/goriladev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goriladev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/german-sanz-4739b418b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/german-sanz-4739b418b/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
