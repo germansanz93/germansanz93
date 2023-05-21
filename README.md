@@ -8,7 +8,7 @@
 
 - 📫 If you want contact with me, you can send me a DM in [Linkedin](https://www.linkedin.com/in/germansanz93/)
 
-- 📄 Know about my experiences [https://germansanz93.github.io/portfolio/cv.html](https://germansanz93.github.io/portfolio/cv.html)
+- 📄 Know about my experiences (TOTALLY OUTDATED.. Working on a new version) [https://germansanz93.github.io/portfolio/cv.html](https://germansanz93.github.io/portfolio/cv.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
