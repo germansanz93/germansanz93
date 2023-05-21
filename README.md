@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=germansanz93&label=Profile%20views&color=0e75b6&style=flat" alt="germansanz93" /> </p>
 
 
-- 👨‍💻 Some of my projects are available at [https://germansanz93.github.io/portfolio/](https://germansanz93.github.io/portfolio/)
+- 👨‍💻 Some of my projects are available at (TOTALLY OUTDATED.. Working on a new version) [https://germansanz93.github.io/portfolio/](https://germansanz93.github.io/portfolio/)
 
 - 📫 If you want contact with me, you can send me a DM in [Linkedin](https://www.linkedin.com/in/germansanz93/)
 
